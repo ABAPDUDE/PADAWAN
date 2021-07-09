@@ -15,6 +15,13 @@
      <ENTRY>Easy Report Program</ENTRY>
      <LENGTH>19</LENGTH>
     </item>
+    <item>
+     <ID>S</ID>
+     <KEY>PA_DATE</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>20</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>
